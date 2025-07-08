@@ -2,7 +2,7 @@
 
 DSCPL (Disciple) is a faith-based web application powered by **React + Vite** on the frontend and **LangChain + Gemini + FAISS** on the backend. It provides AI-generated devotionals, prayers, meditations, and accountability guides using Retrieval-Augmented Generation (RAG) from Bible texts.
 
----
+
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ DSCPL (Disciple) is a faith-based web application powered by **React + Vite** on
 - 🛡️ **Accountability Aid** — Tools for breaking bad habits using biblical encouragement.
 - 💬 **Conversational Chat** — Ask any question about Scripture or your selected topic.
 
----
+
 
 ## ⚙️ Tech Stack
 
